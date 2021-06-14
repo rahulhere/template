@@ -1,0 +1,97 @@
+/*****************  blog *************************/
+.blog-page .main_content {
+    /*margin-left: 150px;
+    margin-right: 150px;*/  
+}
+.blog-page .first_section h1 {
+    color: #e3b82c;
+    font-size: 35px;
+    font-weight: 400;
+}
+.blog-page .header-top {
+    background-image: url(../images/coin-bg.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    min-height: 420px;
+    background-color: #000;
+    background-size: 50%;
+    background-position: center center;
+}
+.blog-page .first_section {
+    padding-left: 0px;
+}
+section.blog_first {
+    margin-top: 60px !important;
+}
+section.blog_first.my-4 h2 {
+        font-size: 15px;
+    font-weight: 600;
+}
+p.publish_date {
+    color: #a9a9a9;
+    font-size: 12px;
+}
+span.share_icons {
+    color: #a9a9a9;
+    font-size: 12px;
+}
+span.share_icons  img {
+    width:18px;
+}
+section#section-third #section-box p {
+   font-weight:600;
+}
+.serviceBox{
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px;
+    margin-top: 30px;
+    width: 160px;
+    max-height: 280px;
+    margin-bottom: 20px;
+}
+.serviceBox .service-content{
+    color: #fff;
+    margin: 0 0;
+    border-radius: 18px;
+}
+.serviceBox .service-content img{
+    border-radius: 10px;
+    width: 100%;
+    height: 100px;
+}
+.serviceBox .service-icon{
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0 0 12px;
+}
+.serviceBox .title{
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    margin: 0;
+    margin-top:10px;
+    text-align: left;
+    padding-left: 15px;
+}
+.serviceBox .description{
+    color: #000;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0 15px 15px;
+    text-align:left;
+}
+
+.serviceBox a.read-more {
+    color:#a9a9a9;
+    text-align: right;
+    display: block;
+    padding-right: 20px;
+}
+section.blog_first.my-4  .img {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}

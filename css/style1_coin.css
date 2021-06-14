@@ -1,0 +1,130 @@
+/******coin_finder****************************/
+.coin_finder_page .first_section h1.text-center {
+    color: #000;
+    font-size: 30px;
+}
+.coin_finder_page section.first_section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:whitesmoke;
+}
+.coin_finder_page .fourth_section {
+    margin-top:0px;
+    padding-top:0px;
+    padding-bottom:80px
+}
+.coin_finder_page .col-md-6.new12 img {
+    width: 160px;
+}
+.coin_finder_page .third_section {
+    padding-bottom: 50px;
+}
+
+
+/******Service Page****************************/
+.service_page .first_section h1.text-center {
+    font-size: 30px;
+}
+.service_page section.first_section {
+    padding-top: 60px;
+    padding-bottom: 120px;
+	
+}
+.service_page .first_box {
+    background-color: #70574D;
+}
+.service_page .fourth_section {
+    margin-top:0px;
+    padding-top:0px;
+    padding-bottom:0px
+}
+.service_page .col-md-6.new12 img {
+    width:100%;
+}
+.service_page .fourth_section .col-md-6.new12 {
+    padding-left: 0;
+    min-height: 500px;
+}
+.service_page .third_section {
+    padding-bottom: 50px;
+}
+.service_para {
+    /* color: white; */
+    color: #666;
+	text-align:center;
+}
+.service_page  .row.row-flex.forth_row {
+    min-height: 300px;
+}
+.service_page .fourth_section button {
+    border-radius: 20px;
+    font-size: 15px;
+	margin-top: 40px;
+}
+.service_page .second_section .right_side {
+    padding: 3rem;
+    background-color: #70574d !important;
+}
+.service_page .second_section .para_cnter {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 15%;
+    right: 15%;
+}
+.service_page .second_section button {
+    border-radius: 20px;
+    font-size: 15px;
+    margin-top: 50px;
+    background-color: #DF3438;
+    border-color: #DF3438;
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.service_page section.second_section.second_row .right_side {
+    background-color:#fff !important
+}
+.service_page section.second_section.second_row .right_side .para_cnter p {
+    color:#666;
+}
+.service_page section.second_section .right_side .para_cnter h1 {
+    color:rgb(227,184,44);
+}
+.service_page .second_section.third_row .right_side {
+    padding: 3rem;
+    background-color: #626469 !important;
+}
+.service_page .second_section.forth_row .right_side {
+    background-color: #7C5D57 !important;
+}
+.service_page section.full_width_row {
+    background-size: cover;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.service_page section.full_width_row  h1 {
+    color:#fff;
+    font-size:30px;
+    text-align:center;
+}
+.service_page section.full_width_row  p {
+    color:#fff;
+    text-align:center;
+}
+.service_page section.full_width_row  button.btn.btn-sm.btn-outline-warning {
+    background-color:transparent;
+    color:#fff;
+    font-size:16px;
+    padding-top:50px;
+    font-weight: bold;
+}
+.service_page .new_btn {
+    text-align: center;
+}
